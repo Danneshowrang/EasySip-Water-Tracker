@@ -13,6 +13,9 @@ Many people find themselves too busy or distracted to drink water everyday. Easy
 ## Code
 The firmware and device functionality is fully programmed in Python. The firmware running on an ESP32C3 handles sip detection, refill recognition, and cup swap detection using a layered logic system. Data is sent via Bluetooth to a React Native companion app that exhibits daily intake, consumption history, and overall progress.
 
+<img width="445" height="996" alt="image" src="https://github.com/user-attachments/assets/05a5b6f0-5c63-440c-b3a3-f069b195342a" />
+
+
 ## Bill Of Materials
 
 Name,Price,Link,Notes
