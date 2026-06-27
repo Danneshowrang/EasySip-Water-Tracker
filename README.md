@@ -10,9 +10,16 @@ Many people find themselves too busy or distracted to drink water everyday. Easy
 
 <img width="746" height="372" alt="image" src="https://github.com/user-attachments/assets/cc90e7e3-e2a1-4243-8496-eb0cdf04d241" />
 
-##Code
+## Code
 The firmware and device functionality is fully programmed in Python. The firmware running on an ESP32C3 handles sip detection, refill recognition, and cup swap detection using a layered logic system. Data is sent via Bluetooth to a React Native companion app that exhibits daily intake, consumption history, and overall progress.
 
 ## Bill Of Materials
 
-[BOM.csv](https://github.com/user-attachments/files/29404130/BOM.csv)
+Name,Price,Link,Notes
+XIAO ESP32C3,$4.99,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880,Already have
+HX711 Amplifier,$4.95,https://www.sparkfun.com/sparkfun-load-cell-amplifier-hx711.html,
+TAL220B Load Cell,$15.50,https://www.sparkfun.com/load-cell-5kg-straight-bar-tal220b.html,
+6mm Tactile Button,$0.75,https://www.sparkfun.com/tactile-button-smd-6mm.html,
+WS2812 LEDs,$4.75,https://www.sparkfun.com/led-rgb-addressable-pth-5mm-diffused-5-pack.html,Already have
+,,"""+ shipping""",
+,$30.94,,
