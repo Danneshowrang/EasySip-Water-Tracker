@@ -18,11 +18,4 @@ The firmware and device functionality is fully programmed in Python. The firmwar
 
 ## Bill Of Materials
 
-Name,Price,Link,Notes
-XIAO ESP32C3,$4.99,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/113991054/16652880,Already have
-HX711 Amplifier,$4.95,https://www.sparkfun.com/sparkfun-load-cell-amplifier-hx711.html,
-TAL220B Load Cell,$15.50,https://www.sparkfun.com/load-cell-5kg-straight-bar-tal220b.html,
-6mm Tactile Button,$0.75,https://www.sparkfun.com/tactile-button-smd-6mm.html,
-WS2812 LEDs,$4.75,https://www.sparkfun.com/led-rgb-addressable-pth-5mm-diffused-5-pack.html,Already have
-,,"""+ shipping""",
-,$30.94,,
+<img width="850" height="282" alt="image" src="https://github.com/user-attachments/assets/1c7ff8f3-55d2-41c8-bd78-970814f34f51" />
